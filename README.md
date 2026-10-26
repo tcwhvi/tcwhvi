@@ -31,8 +31,10 @@ Not a fit: pure outsourcing that copies pages and doesn't involve the business s
 ## Contact
 
 - Email: [tcwhvi@163.com](mailto:tcwhvi@163.com)
+- WeChat: tcwhvi
 - GitHub: [@tcwhvi](https://github.com/tcwhvi)
-- WeChat: scan the QR code below
+
+Or scan the QR code:
 
 <img src="assets/wechat-qr.png" alt="WeChat QR code (ID: tcwhvi)" width="200">
 

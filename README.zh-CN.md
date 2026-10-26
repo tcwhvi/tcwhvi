@@ -31,9 +31,10 @@
 ## 联系我
 
 - 邮箱：[tcwhvi@163.com](mailto:tcwhvi@163.com)
+- 微信：tcwhvi
 - GitHub：[@tcwhvi](https://github.com/tcwhvi)
 
-微信扫码：
+也可以直接扫码：
 
 <img src="assets/wechat-qr.png" alt="微信二维码（微信号：tcwhvi）" width="200">
 
