@@ -40,4 +40,5 @@ Or scan the QR code:
 
 ## Open source
 
-[pair-crew](https://github.com/tcwhvi/coding-pair-crew) — multi-agent pair development: confirm the story first, separate implementation from testing, and bound the review loop.
+- [pair-crew](https://github.com/tcwhvi/coding-pair-crew) — multi-agent pair development: confirm the story first, separate implementation from testing, and bound the review loop.
+- [agent-tps-hud](https://github.com/tcwhvi/agent-tps-hud) — an always-on-top Windows HUD showing tokens/sec for ZCode, Qoder, WorkBuddy and MiMo Desktop; reads local session data only, no proxy, no API keys.

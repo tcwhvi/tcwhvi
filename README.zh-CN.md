@@ -40,4 +40,5 @@
 
 ## 开源
 
-[pair-crew](https://github.com/tcwhvi/coding-pair-crew) —— 多 Agent 结对开发：需求先确认，实现和测试分开，评审有收敛条件。
+- [pair-crew](https://github.com/tcwhvi/coding-pair-crew) —— 多 Agent 结对开发：需求先确认，实现和测试分开，评审有收敛条件。
+- [agent-tps-hud](https://github.com/tcwhvi/agent-tps-hud) —— Windows 置顶小窗，显示 ZCode / Qoder / WorkBuddy / MiMo 的 tokens/s；只读本机会话数据，不抓包、不要 API Key。
